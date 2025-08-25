@@ -1,4 +1,4 @@
-# IBM Coursera-Projects
+# IBM Course Coursera Projects
 
 ## This repository contains two projects completed as part of my IBM learning journey:
 ### 1. AI Emotion Detection App – An LLM & NLP based application that detects emotions from text.

@@ -11,7 +11,7 @@ This repository showcases two different projects that highlight both my **web de
   - Sections for About, Skills, Projects, and Contact  
   - Simple and elegant UI  
 
-👉 This project demonstrates my ability to build and design interactive front-end websites.  
+ This project demonstrates my ability to build and design interactive front-end websites.  
 
 ---
 
